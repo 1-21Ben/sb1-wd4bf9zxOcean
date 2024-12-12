@@ -23,7 +23,7 @@ export function HeaderLogo({ onMenuOpen }: HeaderLogoProps) {
       >
         <Droplets className="h-8 w-8 text-white" />
         <span className="font-bold text-xl text-white">
-          GPP Ocean
+          Océan
         </span>
       </Link>
     </div>
