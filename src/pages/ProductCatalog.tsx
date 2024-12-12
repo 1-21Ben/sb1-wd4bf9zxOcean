@@ -10,11 +10,11 @@ import { useThemeStore } from '../stores/themeStore';
 const MOCK_PRODUCTS = [
   {
     id: '1',
-    name: 'Ocean Guard Premium',
-    description: 'Peinture marine haute performance',
+    name: 'Seigneurie Evolutex Bas Carbone',
+    description: 'Peinture haute performance',
     price: 89.99,
     image: 'https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=800&q=80',
-    category: 'Marine',
+    category: 'Façade',
   },
   {
     id: '2',
@@ -52,9 +52,9 @@ const FILTERS = [
     title: 'Marques',
     options: [
       { id: 'gpp', label: 'GPP Ocean', count: 56 },
-      { id: 'sikkens', label: 'Sikkens', count: 43 },
+      { id: 'seigneurie', label: 'Sikkens', count: 43 },
       { id: 'sigma', label: 'Sigma', count: 38 },
-      { id: 'zolpan', label: 'Zolpan', count: 25 },
+      { id: 'gauthier', label: 'Zolpan', count: 25 },
     ],
   },
   {
