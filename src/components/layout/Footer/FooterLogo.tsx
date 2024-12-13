@@ -5,7 +5,6 @@ export function FooterLogo() {
   return (
     <div className="space-y-4">
       <div className="flex items-center space-x-2">
-        <Droplets className="h-8 w-8 text-white" />
         <span className="font-bold text-xl text-white">
           Seigneurie Océan
         </span>
