@@ -56,7 +56,7 @@ export function Home() {
             <p className={`mt-2 text-lg ${
               isDarkMode ? 'text-gray-400' : 'text-gray-600'
             }`}>
-              Restez connecté avec GPP Ocean
+              Restez connecté avec Seigneurie Océan
             </p>
           </div>
           <SocialFeed />
