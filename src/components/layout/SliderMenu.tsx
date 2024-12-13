@@ -85,7 +85,7 @@ export function SliderMenu({ isOpen, onClose }: SliderMenuProps) {
 
           <div className="p-6 border-t border-gray-200">
             <p className="text-sm text-gray-500">
-              © 2024 GPP Ocean Inc. Tous droits réservés
+              © 2024 Seigneurie Océan Inc. Tous droits réservés
             </p>
           </div>
         </div>
