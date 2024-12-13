@@ -21,7 +21,6 @@ export function HeaderLogo({ onMenuOpen }: HeaderLogoProps) {
         to="/"
         className="group flex items-center space-x-2 p-2 rounded-lg transition-colors hover:bg-white/10"
       >
-        <Droplets className="h-8 w-8 text-white" />
         <span className="font-bold text-xl text-white">
           Océan
         </span>
