@@ -4,6 +4,7 @@ import { ProductCarousel } from '../components/home/ProductCarousel';
 import { CategoryWidget } from '../components/home/CategoryWidget';
 import { SocialFeed } from '../components/home/SocialFeed';
 import { useThemeStore } from '../stores/themeStore';
+import logo from 'src/pages/SGlogo.png';
 
 export function Home() {
   const { isDarkMode } = useThemeStore();
