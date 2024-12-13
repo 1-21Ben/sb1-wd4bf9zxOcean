@@ -73,7 +73,7 @@ export function Footer() {
         </div>
 
         <div className="mt-8 pt-8 border-t border-white/10 text-sm text-center text-white/60">
-          <p>© {new Date().getFullYear()} GPP Ocean Inc. Tous droits réservés.</p>
+          <p>© {new Date().getFullYear()} Seigneurie Océan Inc. Tous droits réservés.</p>
         </div>
       </div>
     </footer>
